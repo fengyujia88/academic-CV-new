@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujia Feng {{<font  face="宋体">}}冯雨嘉{{</font>}}
+title: Yujia Feng 冯雨嘉
 
 # Full name (for SEO)
 first_name: Yujia
