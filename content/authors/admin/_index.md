@@ -41,6 +41,9 @@ education:
     - course: MBBS in Clinical Medicine
       institution: School of Medicine, Wuhan University
       year: 09/2015 – 06/2020
+    - course: High School
+      institution: High school affiliated to Yunnan Normal University
+      year: 09/2012 – 06/2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
