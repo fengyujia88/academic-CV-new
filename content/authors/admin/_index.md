@@ -79,5 +79,7 @@ email: 'fengyujia@whu.edu.cn'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my personal website. I am a student from mainland China. 
+I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine with a specialization in Cardiovascular Medicine at Wuhan University. 
+My current research interests lie in the field of cardiovascular medicine, focusing on bioinformatics analysis, cohort studies, clinical trials, meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, percutaneous coronary intervention (PCI), and hyperlipidemia.
 {style="text-align: justify;"}
