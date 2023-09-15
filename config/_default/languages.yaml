@@ -12,11 +12,11 @@ en:
 zh:
   languageCode: zh
   contentDir: content/zh
-  title: 冯雨嘉的个人网页
+  title: Yujia-Feng's website
 zh-Hant:
     languageCode: zh-Hant
     contentDir: content/zh-Hant
-    title: 冯雨嘉的個人網頁
+    title: Yujia-Feng's website
 #  params:
 #    description: Site description in Chinese...
 #  menu:
