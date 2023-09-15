@@ -11,8 +11,8 @@ baseURL: 'https://example.com/' # Website URL
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: ture
+defaultContentLanguageInSubdir: ture
 removePathAccents: true
 
 ############################
