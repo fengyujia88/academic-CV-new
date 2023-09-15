@@ -10,7 +10,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: zh-Hans
+  languageCode: zh
   contentDir: content/zh
   title: ·ëÓê¼ÎµÄ¸öÈËÍøÒ³
 zh-Hant:
