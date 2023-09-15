@@ -73,7 +73,7 @@ social:
     link: uploads/resume.pdf
   - icon: weixin
     icon_pack: fab
-    link: "/#15971500416"
+    link: "image:filename:code.jpg" 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'fengyujia@whu.edu.cn'
