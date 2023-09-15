@@ -27,7 +27,7 @@ bio: My current research interests include bioinformatics analysis, clinical coh
 # Interests to show in About widget
 interests:
   - Bioinformatics Analysis
-  - Clinical Randomized Controlled Trials
+  - Randomized Controlled Trials
   - Clinical Cohort Studies
   - Meta-analyses
   - Latent Class Analyses
@@ -40,7 +40,7 @@ education:
       year: 09/2020 – 06/2023
     - course: MBBS in Clinical Medicine
       institution: School of Medicine, Wuhan University
-      year: 2008
+      year: 09/2015 – 06/2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,19 +52,19 @@ social:
     link: 'mailto:fengyujia@whu.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/fngyji276788767
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rXBaX0YAAAAJ&gmla=AP6z3OZCTstNTTjOK4o_cpHmS60fkZO-VKelMQXFbyeS6ItMH-cOvy5O54Egj0FUK3Kj9XQlXwDYza9MwK6VYCURCYbDkIwgEcSprvFVamQ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fengyujia88
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yujia-feng-423950290/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
