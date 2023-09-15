@@ -2,7 +2,7 @@
 title: "The atherogenic index of plasma (AIP) is a predictor for the severity of coronary artery disease"
 authors:
 - Li Y
-- "**Feng Y**"
+- "** Feng Y**"
 - Li S
 - Ma Y
 - Lin J
@@ -23,7 +23,7 @@ publishDate: "2023-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Front Cardiovasc Med. *(2023)10:1140215"
+publication: "*Front Cardiovasc Med.* (2023)10:1140215"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
