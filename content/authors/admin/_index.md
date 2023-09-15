@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujia Feng 冯雨嘉
+title: Yujia Feng
 
 # Full name (for SEO)
 first_name: Yujia
@@ -22,25 +22,24 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics Analysis
+  - Clinical Randomized Controlled Trials
+  - Clinical Cohort Studies
+  - Meta-analyses
+  - Latent Class Analyses
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MMed in Cardiovascular Medicine
+      institution: Second School of Clinical Medicine, Wuhan University
+      year: 09/2020 – 06/2023
+    - course: MBBS in Clinical Medicine
+      institution: School of Medicine, Wuhan University
       year: 2008
 
 # Social/Academic Networking
@@ -50,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:fengyujia@whu.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
