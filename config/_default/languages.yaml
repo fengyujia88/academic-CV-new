@@ -9,14 +9,18 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: ·ëÓê¼ÎµÄ¸öÈËÍøÒ³
+zh-Hant:
+    languageCode: zh-Hant
+    contentDir: content/zh-Hant
+    title: ·ëÓê¼ÎµÄ‚€ÈË¾Wí“
 #  params:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
-#      - name: ä¼ 
+#      - name: ä¼
 #        url: '#about'
 #        weight: 1
