@@ -34,7 +34,7 @@ abstract: "**Objective:** Dyslipidemia is a key risk factor for coronary artery 
 <br>**Results:** The levels of AIP (P < 0.001), AI (P < 0.001), and LCI (P = 0.013) were higher in the CAD group compared with the non-CAD group. The Spearman correlation analysis showed that AIP (r = 0.075, P < 0.001), AI (r = 0.132, P < 0.001), and LCI (r = 0.072, P = 0.001) were positively correlated with SS. The multivariate logistic regression model showed CRI I (OR: 1.11, 95% CI: 1.03–1.19, P = 0.005), CRI II (OR: 1.26, 95% CI: 1.15–1.39, P < 0.001), AI (OR: 1.28, 95% CI: 1.17–1.40, P < 0.001), AIP (OR: 2.06, 95% CI: 1.38–3.07, P < 0.001), and LCI (OR: 1.01, 95% CI: 1.01–1.02, P < 0.001) were independent predictors of severity of CAD After sadjusting various confounders.
 
 <br>**Conclusion:** CRI I, CRI II, AIP, AI, and LCI were independent predictors of the severity
-of CAD, which could be used as a biomarker for the evaluation of the severity of CAD.{style = text-align: justify;}" 
+of CAD, which could be used as a biomarker for the evaluation of the severity of CAD.{style = "text-align: justify;"}" 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
