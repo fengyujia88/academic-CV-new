@@ -190,20 +190,27 @@ sections:
   - block: features
     content:
       title: Skills
-	  style: "text_align: justify;"
       items:
         - name: R
           description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
           icon: r-project
           icon_pack: fab
-        - name: Stata
-          description: 100%
-          icon: chart-line
+        - name: SQL
+          description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language
+          icon: database
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: STATA
+          description: Through engagement in meta-analysis and the analysis of MIMIC database, I have gained proficiency in utilizing the STATA software
+          icon: square-poll-vertical
           icon_pack: fas
+        - name: SPSS
+          description: In the context of clinical cohort studies, I have acquired proficiency in utilizing the SPSS software
+          icon: table
+          icon_pack: fas
+        - #name: Photography
+          #description: 10%
+          #icon: camera-retro
+          #icon_pack: fas
   - block: contact
     id: contact
     content:
