@@ -207,13 +207,13 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #subtitle:
+      #text: |-
+      #  If you have any questions, feel free to leave me a message at any time
       # Contact (add or remove contact options as necessary)
       email: fengyujia@whu.edu.cn
       phone: +86 15971500416
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
         street: 169 Donghu Road
         city: Wuhan
