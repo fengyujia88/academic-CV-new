@@ -160,7 +160,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -192,10 +192,10 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Stata
           description: 100%
           icon: chart-line
           icon_pack: fas
@@ -211,33 +211,33 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: fengyujia@whu.edu.cn
+      phone: +86 15971500416
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: 169 Donghu Road
+        city: Wuhan
+        region: Hubei
+        postcode: '430071'
+        country: China
+        country_code: CHN
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/fngyji276788767'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:live:939772843'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://us05web.zoom.us/j/7203015946?pwd=VBE34Rc51vVzs8K25BnbbTJ6bvLCQp.1'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
