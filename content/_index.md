@@ -193,7 +193,8 @@ sections:
       items:
         - name: R
           description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
-          icon: r-project
+          text_align: 'justify'
+		  icon: r-project
           icon_pack: fab
         - name: SQL
           description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language
@@ -217,7 +218,6 @@ sections:
           icon_pack: fas
     design:
       columns: '6'
-      text_align: 'justify'
   - block: contact
     id: contact
     content:
