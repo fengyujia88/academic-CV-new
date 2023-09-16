@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
-{style="text-align: justify;"}
+style: "text-align: justify;"
 # Interests to show in About widget
 interests:
   - Bioinformatics Analysis
