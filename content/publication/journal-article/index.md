@@ -2,7 +2,7 @@
 title: "The atherogenic index of plasma (AIP) is a predictor for the severity of coronary artery disease"
 authors:
 - Li Y
-- fengy
+- admin
 - Li S
 - Ma Y
 - Lin J
