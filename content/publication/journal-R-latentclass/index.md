@@ -75,6 +75,6 @@ of CAD, which could be used as a biomarker for the evaluation of the severity of
 {style = "text-align: justify;"}
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import the reference into the reference management software.
 {{% /callout %}}
 
