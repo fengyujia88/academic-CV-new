@@ -207,6 +207,10 @@ sections:
           description: In the context of clinical cohort studies, I have acquired proficiency in utilizing the SPSS software
           icon: table
           icon_pack: fas
+        - name: Mplus
+          description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
+          icon: M
+          icon_pack: fas
         - #name: Photography
           #description: 10%
           #icon: camera-retro
