@@ -7,7 +7,7 @@ authors:
 - Li S
 - Lin J
 - Fang P
-- Wan J etc.
+- Wan J, et al.
 author_notes:
 - "co-first author"
 - "co-first author"
