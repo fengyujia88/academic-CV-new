@@ -203,7 +203,6 @@ sections:
           description: Through engagement in meta-analysis and the analysis of MIMIC database, I have gained proficiency in utilizing the STATA software
           icon: square-poll-vertical
           icon_pack: fas
-		  
   - block: contact
     id: contact
     content:
