@@ -190,7 +190,7 @@ sections:
   - block: features
     content:
       title: Skills
-	  text_align: justify
+	  style: "text_align: justify;"
       items:
         - name: R
           description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
