@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Yujia Feng
+title: Feng Y
 
 # Full name (for SEO)
-first_name: Feng
-last_name: "Y"
+first_name: Yujia
+last_name: Feng
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: PhD Candidate
