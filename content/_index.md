@@ -202,15 +202,7 @@ sections:
         - name: STATA
           description: Through engagement in meta-analysis and the analysis of MIMIC database, I have gained proficiency in utilizing the STATA software
           icon: square-poll-vertical
-          icon_pack: fas
-        - name: SPSS
-          description: In the context of clinical cohort studies, I have acquired proficiency in utilizing the SPSS software
-          icon: table
-          icon_pack: fas
-        - name: Mplus
-          description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
-          icon: M
-          icon_pack: fas
+          icon_pack: fass
         - #name: Photography
           #description: 10%
           #icon: camera-retro
