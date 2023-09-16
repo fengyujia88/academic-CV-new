@@ -5,7 +5,7 @@ authors:
 - Li Z
 - Zhao B
 - Dai Z
-- Wang R
+- Wang J
 - fengy
 - Peng A
 - Xiang H
