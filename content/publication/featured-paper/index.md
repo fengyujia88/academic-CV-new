@@ -33,7 +33,7 @@ publishDate: '2022-09-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Front. Cardiovasc. Med.* 9:1000664."
+publication: "*Front. Cardiovasc. Med.* 9:1000664"
 publication_short: ''
 
 abstract: ''
