@@ -24,7 +24,7 @@ publishDate: "2020-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*QJM.* (2020)113(12): 876-82."
+publication: "*QJM.* (2020)113(12): 876-82"
 publication_short: ""
 
 abstract: ""

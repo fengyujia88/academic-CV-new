@@ -22,7 +22,7 @@ publishDate: "2023-01-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Medical Journal of Wuhan University* (2023):1-7."
+publication: "*Medical Journal of Wuhan University* (2023):1-7"
 publication_short: ""
 
 abstract: ""
