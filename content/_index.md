@@ -193,7 +193,8 @@ sections:
       items:
         - name: R
           description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
-          text_align: 'justify'
+          style:
+            text_align: 'justify'
 		  icon: r-project
           icon_pack: fab
         - name: SQL
