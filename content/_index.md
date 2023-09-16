@@ -217,6 +217,7 @@ sections:
           icon_pack: fas
     design:
       columns: '6'
+      text_align: 'justify'
   - block: contact
     id: contact
     content:
