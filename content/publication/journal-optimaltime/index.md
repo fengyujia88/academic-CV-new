@@ -1,70 +1,60 @@
 ---
-title: 'The optimal timing for non-culprit
+title: "The optimal timing for non-culprit
 percutaneous coronary intervention in
 patients with multivessel coronary
 artery disease: A Pairwise and Network
-Meta-Analysis of Randomized Trials'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+Meta-Analysis of Randomized Trials"
 authors:
-  - fengy
-  - Li S
-  - Hu S
-  - Wan J
-  - Shao H
-
-# Author notes (optional)
+- fengy
+- Li S
+- Hu S
+- Wan J
+- Shao H
 author_notes:
-  - 'first author'
-#  - 'Equal contribution'
-
-date: '2022-09-15T00:00:00Z'
-doi: '10.3389/fcvm.2022.1000664'
+- "first author"
+date: "2022-09-15T00:00:00Z"
+doi: "10.3389/fcvm.2022.1000664"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-15T00:00:00Z'
+publishDate: "2022-09-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Front. Cardiovasc. Med.* 9:1000664."
-publication_short: ''
+publication: "*Front Cardiovasc Med.* 9:1000664."
+publication_short: ""
 
-abstract: ''
+abstract: ""
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Featured Publications]
+tags:
+- List of publications
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
+# - name: ""
+#   url: ""
 url_pdf: ''
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-#url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -73,7 +63,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -82,7 +71,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 **Abstract**  
 **Background and aims:** Recently, several randomized trials have shown
 that patients with multivessel disease (MVD) often pursue complete
@@ -116,6 +104,6 @@ revascularization in reducing the risk of MACE events.
 {style = "text-align: justify;"}
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
