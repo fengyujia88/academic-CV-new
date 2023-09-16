@@ -26,7 +26,11 @@ publication_types: ["2"]
 publication: "*Front Cardiovasc Med.* (2023)10:1140215"
 publication_short: ""
 
-abstract: "**Objective:** Dyslipidemia is a key risk factor for coronary artery disease (CAD). This study aimed to investigate the correlation between the atherogenic index of plasma (AIP) and the severity of CAD.  
+	<style>
+		.a{text-align: justify;}
+	</style>
+abstract: <div class="a">
+"**Objective:** Dyslipidemia is a key risk factor for coronary artery disease (CAD). This study aimed to investigate the correlation between the atherogenic index of plasma (AIP) and the severity of CAD.  
 
 <br>**Methods:** 2,491 patients were enrolled in this study and analyzed retrospectively, including 665 non-CAD patients as the control group and 1,826 CAD patients. The CAD patients were classified into three subgroups according to tertiles of SYNTAX score (SS). Non-high-density lipoprotein cholesterol (Non-HDL-C) was defined as serum total cholesterol (TC) minus serum high-density lipoprotein cholesterol (Non-HDL-C), atherogenic index (AI) was defined as the ratio of non-HDL-C to HDL-C; AIP was defined as the logarithm of the ratio of the concentration of triglyceride (TG) to HDL-C; lipoprotein combine index (LCI) was defined as the ratio of TC∗TG∗ low-density lipoprotein cholesterol (LDL)to HDL-C; Castelli Risk Index I (CRI I) was defined as the ratio of TC to HDL-C; Castelli Risk Index II (CRI II) was defined as the ratio of LDL-C to HDL-C.  
 
@@ -34,6 +38,7 @@ abstract: "**Objective:** Dyslipidemia is a key risk factor for coronary artery 
 
 <br>**Conclusion:** CRI I, CRI II, AIP, AI, and LCI were independent predictors of the severity
 of CAD, which could be used as a biomarker for the evaluation of the severity of CAD."
+</div>
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
