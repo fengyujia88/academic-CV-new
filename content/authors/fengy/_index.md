@@ -21,8 +21,6 @@ organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
 
 # Interests to show in About widget
 interests:
@@ -85,6 +83,9 @@ email: 'fengyujia@whu.edu.cn'
 highlight_name: true
 ---
 
+{Short bio (displayed in user profile at end of posts)}
+bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
+{style="text-align: justify;"}
 Welcome to my personal website. I am a student from mainland China. 
 I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine with a specialization in Cardiovascular Medicine at Wuhan University. 
 My current research interests lie in the field of cardiovascular medicine, focusing on bioinformatics analysis, cohort studies, clinical trials, meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, percutaneous coronary intervention (PCI), and hyperlipidemia.
