@@ -6,7 +6,8 @@ authors:
 - Li S
 - Ma Y
 - Lin J
-- Wan J, et al.
+- Wan J
+- Zhao M
 author_notes:
 - "co-first author"
 - "co-first author"
