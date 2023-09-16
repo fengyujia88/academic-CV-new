@@ -193,7 +193,7 @@ sections:
       items:
         - name: R
           text: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
-		  text-align: justify
+		  text_align: justify
           icon: r-project
           icon_pack: fab
         - name: Stata
