@@ -1,5 +1,5 @@
 ---
-title: "The atherogenic index of plasma (AIP) is a predictor for the severity of coronary artery disease"
+title: "The Atherogenic Index of Plasma is a Predictor for Chronic Total Occlusion and Coronary Collateral Circulation Formation in CTOs Patients"
 authors:
 - Li Y
 - fengy
