@@ -211,8 +211,8 @@ sections:
           description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
           icon: M
           icon_pack: fas
-		design:
-		  columns: '5'
+    design:
+      columns: '5'
   - block: contact
     id: contact
     content:
