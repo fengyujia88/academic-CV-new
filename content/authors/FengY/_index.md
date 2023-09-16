@@ -3,8 +3,8 @@
 title: Yujia Feng
 
 # Full name (for SEO)
-first_name: Yujia
-last_name: Feng
+first_name: Feng
+last_name: "Y"
 
 # Status emoji
 status:
