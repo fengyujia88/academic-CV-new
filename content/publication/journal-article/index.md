@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "*Front Cardiovasc Med.* (2023)10:1140215"
 publication_short: ""
 
-abstract: "Dyslipidemia is a key risk factor for coronary artery disease (CAD). This study aimed to investigate the correlation between the atherogenic index of plasma (AIP) and the severity of CAD."
+abstract: "**Objective:** Dyslipidemia is a key risk factor for coronary artery disease (CAD). This study aimed to investigate the correlation between the atherogenic index of plasma (AIP) and the severity of CAD."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
