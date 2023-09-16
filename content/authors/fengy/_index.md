@@ -59,8 +59,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rXBaX0YAAAAJ&gmla=AP6z3OZCTstNTTjOK4o_cpHmS60fkZO-VKelMQXFbyeS6ItMH-cOvy5O54Egj0FUK3Kj9XQlXwDYza9MwK6VYCURCYbDkIwgEcSprvFVamQ
   - icon: github
     icon_pack: fab
