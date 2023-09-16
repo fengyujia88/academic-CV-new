@@ -192,9 +192,8 @@ sections:
       title: Skills
       items:
         - name: R
-          text: |-
-		  "Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
-		  {style="text-align:justify;"}"
+          text: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
+		  text-align: justify
           icon: r-project
           icon_pack: fab
         - name: Stata
