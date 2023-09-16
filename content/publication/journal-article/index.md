@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "*Front Cardiovasc Med.* (2023)10:1140215"
 publication_short: ""
 
-abstract: 
+#abstract: 
 	<style>
 		.a{text-align: justify;}
 	</style>
