@@ -312,14 +312,46 @@ sections:
           organization_url: https://wbm.whu.edu.cn/
           title: Second Prize in the 2nd Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
           url: https://mp.weixin.qq.com/s/jWPBj5x-OUypKCC9DoDA4g
-        - certificate_url: uploads/2017_2nd_Anatomy_Illustration_Competition.jpg
+        - certificate_url: uploads/2016Third_Prize_Scholarship.jpg
           date_end: ''
-          date_start: '2017-04-24'
+          date_start: '2016-12-25'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2016 Third Prize Scholarship for Outstanding Students of Wuhan University
+          url: uploads/2016Third_Prize_Scholarship.jpg
+        - certificate_url: uploads/2016Excellent_Student .jpg
+          date_end: ''
+          date_start: '2016-12-24'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2016 Recognized as an Excellent Student by Wuhan University
+          url: uploads/2016Excellent_Student .jpg
+        - certificate_url: uploads/2016Advanced_Individual_Student_Association.jpg
+          date_end: ''
+          date_start: '2016-12-23'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: Advanced Individual of Student Association Guidance Center of Wuhan University
+          url: uploads/2016Advanced_Individual_Student_Association.jpg
+        - certificate_url: uploads/2016Experimental-Skills-Competition.jpg
+          date_end: ''
+          date_start: '2016-05-23'
           description: ''
           organization: School of Basic Medical Sciences
           organization_url: https://wbm.whu.edu.cn/
-          title: Second Prize in the 2nd Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
-          url: https://wbm.whu.edu.cn/info/1217/4216.htm
+          title: Third Prize in the Individual Category of the Inaugural Basic Experimental Skills Competition held by the School of Basic Medical Sciences of Wuhan University
+          url: https://wbm.whu.edu.cn/info/1217/4323.htm
+        - certificate_url: uploads/2015Debate-Tournament.jpg
+          date_end: ''
+          date_start: '2015-12-23'
+          description: ''
+          organization: School of Basic Medical Sciences
+          organization_url: https://wbm.whu.edu.cn/
+          title: Third Prize in the Freshman Debate Tournament held by the School of Basic Medical Sciences of Wuhan University
+          url: uploads/2015Debate-Tournament.jpg
     design:
       columns: '2'
   - block: collection
