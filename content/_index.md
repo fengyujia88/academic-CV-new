@@ -111,15 +111,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url_pdf: uploads/2022First_Prize_Scholarship.pdf
+        - certificate_url: uploads/2022First_Prize_Scholarship.pdf
           date_end: ''
           date_start: '2022-10-25'
           description: ''
           organization: Wuhan University
           organization_url: https://www.whu.edu.cn/
           title: First Prize Graduate Excellent Academic Scholarship of Wuhan University
-          url: ''
-          url_pdf: uploads/2022First_Prize_Scholarship.pdf
+          link: uploads/2022First_Prize_Scholarship.pdf
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
