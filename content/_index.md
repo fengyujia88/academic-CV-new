@@ -213,7 +213,7 @@ sections:
           date_start: '2020-11-27'
           description: ''
           organization: Wuhan University
-          organization_url:  https://www.whu.edu.cn/
+          organization_url: https://www.whu.edu.cn/
           title: Second Prize in the Wuhan University Photography Contest
           url: uploads/2020Photography_Contest_title.jpg
         - certificate_url: uploads/2019_6th_Clinical_Skills_Competition.jpg
@@ -224,6 +224,22 @@ sections:
           organization_url:  https://wsm70.whu.edu.cn/
           title: Third Prize in the 6th Clinical Skills Competition of the Wuhan University school of medicine
           url: https://wsm70.whu.edu.cn/info/1043/14797.htm
+        - certificate_url: uploads/2019First_Prize_Scholarship.jpg
+          date_end: ''
+          date_start: '2019-12-25'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: First Prize Scholarship for Outstanding Students of Wuhan University
+          url: uploads/2019First_Prize_Scholarship.jpg
+        - certificate_url: uploads/2019Huang_Zhangren.jpg
+          date_end: ''
+          date_start: '2019-12-24'
+          description: ''
+          organization: Wuhan University school of medicine
+          organization_url: https://wsm70.whu.edu.cn/
+          title: Huang Zhangren Special Scholarship
+          url: uploads/2019Huang_Zhangren.jpg
     design:
       columns: '2'
   - block: collection
