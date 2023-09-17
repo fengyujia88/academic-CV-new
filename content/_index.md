@@ -280,6 +280,13 @@ sections:
           organization_url: https://medu.bjmu.edu.cn/cms/show.action?code=publish_4028801e6bf38f43016c3cde03130479&siteid=100000&channelid=0000000055
           title: Outstanding Award in the Second National Internet Plus Smart Simulated Medical Clinical Skills Competition
           url: https://www.gmc.edu.cn/info/1058/13087.htm
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
     design:
       columns: '2'
   - block: collection
