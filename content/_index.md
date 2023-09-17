@@ -64,6 +64,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: Experience
     content:
       title: Experience
       # Date format for experience
@@ -99,6 +100,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: Honors & Awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honors & Awards'
@@ -138,6 +140,7 @@ sections:
     design:
       columns: '2'
   - block: features
+    id: Skills
     content:
       title: Skills
       items:
