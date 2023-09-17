@@ -230,7 +230,7 @@ sections:
           description: ''
           organization: Wuhan University
           organization_url: https://www.whu.edu.cn/
-          title: First Prize Scholarship for Outstanding Students of Wuhan University
+          title: 2019 First Prize Scholarship for Outstanding Students of Wuhan University
           url: uploads/2019First_Prize_Scholarship.jpg
         - certificate_url: uploads/2019Huang_Zhangren.jpg
           date_end: ''
@@ -238,7 +238,7 @@ sections:
           description: ''
           organization: Wuhan University school of medicine
           organization_url: https://wsm70.whu.edu.cn/
-          title: Huang Zhangren Special Scholarship
+          title: 2019 Huang Zhangren Special Scholarship
           url: uploads/2019Huang_Zhangren.jpg
         - certificate_url: uploads/2019merit_student.jpg
           date_end: ''
@@ -246,7 +246,7 @@ sections:
           description: ''
           organization: Wuhan University
           organization_url: https://www.whu.edu.cn/
-          title: Recognized as a merit student by Wuhan University
+          title: 2019 Recognized as a Merit Student by Wuhan University
           url: uploads/2019merit_student.jpg
         - certificate_url: uploads/2019Anatomy_Illustration_picture.jpg
           date_end: ''
@@ -256,6 +256,22 @@ sections:
           organization_url: https://wbm.whu.edu.cn/
           title: First Prize in the Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
           url: uploads/2019merit_student.jpg
+        - certificate_url: uploads/2018Second_Prize_Scholarship.jpg
+          date_end: ''
+          date_start: '2018-12-26'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2018 Second Prize Scholarship for Outstanding Students of Wuhan University
+          url: uploads/2018Second_Prize_Scholarship.jpg
+        - certificate_url: uploads/2018Merit_Student.jpg
+          date_end: ''
+          date_start: '2018-12-25'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2018 Recognized as a Merit Student by Wuhan University
+          url: uploads/2018Merit_Student.jpg
     design:
       columns: '2'
   - block: collection
