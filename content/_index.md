@@ -216,6 +216,14 @@ sections:
           organization_url:  https://www.whu.edu.cn/
           title: Second Prize in the Wuhan University Photography Contest
           url: uploads/2020Photography_Contest_title.jpg
+        - certificate_url: uploads/2019_6th_Clinical_Skills_Competition.jpg
+          date_end: ''
+          date_start: '2019-12-09'
+          description: ''
+          organization: Wuhan University school of medicine
+          organization_url:  https://wsm70.whu.edu.cn/
+          title: Third Prize in the 6th Clinical Skills Competition of the Wuhan University school of medicine
+          url: https://wsm70.whu.edu.cn/info/1043/14797.htm
     design:
       columns: '2'
   - block: collection
