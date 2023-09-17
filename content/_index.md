@@ -137,6 +137,14 @@ sections:
           organization_url: https://www.whu.edu.cn/
           title: 2022 Outstanding Student Leader
           url: uploads/2022Outstanding_Student_Leader.pdf
+        - certificate_url: uploads/2021_3rd_Clinical_Thinking_Competition.jpg
+          date_end: ''
+          date_start: '2021-12-25'
+          description: ''
+          organization: Zhongnan Hospital of Wuhan University
+          organization_url: https://www.znhospital.cn/index.html
+          title: Second Prize in the Team Category of the 3rd Clinical Thinking Competition held by Zhongnan Hospital of Wuhan University
+          url: uploads/2021_3rd_Clinical_Thinking_Competition.jpg
     design:
       columns: '2'
   - block: features
