@@ -240,6 +240,22 @@ sections:
           organization_url: https://wsm70.whu.edu.cn/
           title: Huang Zhangren Special Scholarship
           url: uploads/2019Huang_Zhangren.jpg
+        - certificate_url: uploads/2019merit_student.jpg
+          date_end: ''
+          date_start: '2019-12-26'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: Recognized as a merit student by Wuhan University
+          url: uploads/2019merit_student.jpg
+        - certificate_url: uploads/2019Anatomy_Illustration_picture.jpg
+          date_end: ''
+          date_start: '2019-04-21'
+          description: ''
+          organization: School of Basic Medical Sciences
+          organization_url: https://wbm.whu.edu.cn/
+          title: First Prize in the Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
+          url: uploads/2019merit_student.jpg
     design:
       columns: '2'
   - block: collection
