@@ -281,7 +281,7 @@ sections:
           title: Outstanding Award in the Second National Internet Plus Smart Simulated Medical Clinical Skills Competition
           url: https://www.gmc.edu.cn/info/1058/13087.htm
     design:
-      columns: '4'
+      columns: '2'
   - block: collection
     id: posts
     content:
