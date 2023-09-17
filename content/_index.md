@@ -117,24 +117,24 @@ sections:
           description: ''
           organization: Wuhan University
           organization_url: https://www.whu.edu.cn/
-          title: First Prize Graduate Excellent Academic Scholarship of Wuhan University
+          title: 2022 First Prize Graduate Excellent Academic Scholarship of Wuhan University
           url: uploads/2022First_Prize_Scholarship.pdf
-        - certificate_url: https://www.edx.org
+        - certificate_url: uploads/2022Outstanding_Graduate.pdf
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2022-10-25'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2022 Outstanding Graduate of Wuhan University
+          url: uploads/2022Outstanding_Graduate.pdf
+        - certificate_url: uploads/2022Outstanding_Student_Leader.pdf
+          date_end: ''
+          date_start: '2022-09-01'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2022 Outstanding Student Leader
+          url: uploads/2022Outstanding_Student_Leader.pdf
     design:
       columns: '2'
   - block: features
