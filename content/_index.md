@@ -272,14 +272,14 @@ sections:
           organization_url: https://www.whu.edu.cn/
           title: 2018 Recognized as a Merit Student by Wuhan University
           url: uploads/2018Merit_Student.jpg
-        - certificate_url: https://www.gmc.edu.cn/info/1058/13087.htm
+        - certificate_url: uploads/2018Internet_Plus.jpg
           date_end: ''
           date_start: '2018-12-25'
           description: ''
           organization: Medical Education Professional Committee of the China Higher Education Association
           organization_url: https://medu.bjmu.edu.cn/cms/show.action?code=publish_4028801e6bf38f43016c3cde03130479&siteid=100000&channelid=0000000055
           title: Outstanding Award in the Second National Internet Plus Smart Simulated Medical Clinical Skills Competition
-          url: uploads/2018Merit_Student.jpg
+          url: https://www.gmc.edu.cn/info/1058/13087.htm
     design:
       columns: '2'
   - block: collection
