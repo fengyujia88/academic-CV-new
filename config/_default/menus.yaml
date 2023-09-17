@@ -13,15 +13,15 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Skills
+    url: '#Skills'
+    weight: 55
   - name: Experience
     url: '#Experience'
     weight: 60
   - name: Honors & Awards
     url: '#Honors & Awards'
     weight: 70
-  - name: Skills
-    url: '#Skills'
-    weight: 80
   - name: Posts
     url: '#posts'
     weight: 85

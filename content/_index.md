@@ -63,6 +63,37 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: features
+    id: Skills
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
+          icon: r-project
+          icon_pack: fab
+        - name: SQL
+          description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language
+          icon: database
+          icon_pack: fas
+        - name: STATA & Rev Man
+          description: Through engagement in meta-analysis and the analysis of MIMIC database, I have gained proficiency in utilizing the STATA software
+          icon: square-poll-vertical
+          icon_pack: fas
+        - name: SPSS & PASS
+          description: In the context of clinical cohort studies, I have acquired proficiency in utilizing the SPSS software
+          icon: table
+          icon_pack: fas
+        - name: Mplus
+          description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
+          icon: m
+          icon_pack: fas
+        - name: Navicat & Cytoscape
+          description: During the course of conducting bioinformatics analysis, I learned to use the Navicat and Cytoscape software
+          icon: cat
+          icon_pack: fas
+    design:
+      columns: '6'
   - block: experience
     id: Experience
     content:
@@ -179,37 +210,6 @@ sections:
           url: uploads/2020Outstanding_Bachelor_Graduates.jpg
     design:
       columns: '2'
-  - block: features
-    id: Skills
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
-          icon: r-project
-          icon_pack: fab
-        - name: SQL
-          description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language
-          icon: database
-          icon_pack: fas
-        - name: STATA & Rev Man
-          description: Through engagement in meta-analysis and the analysis of MIMIC database, I have gained proficiency in utilizing the STATA software
-          icon: square-poll-vertical
-          icon_pack: fas
-        - name: SPSS & PASS
-          description: In the context of clinical cohort studies, I have acquired proficiency in utilizing the SPSS software
-          icon: table
-          icon_pack: fas
-        - name: Mplus
-          description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
-          icon: m
-          icon_pack: fas
-        - name: Navicat & Cytoscape
-          description: During the course of conducting bioinformatics analysis, I learned to use the Navicat and Cytoscape software
-          icon: cat
-          icon_pack: fas
-    design:
-      columns: '6'
   - block: collection
     id: posts
     content:
