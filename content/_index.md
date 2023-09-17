@@ -137,7 +137,7 @@ sections:
           organization_url: https://www.whu.edu.cn/
           title: 2022 Outstanding Student Leader
           url: uploads/2022Outstanding_Student_Leader.pdf
-        - certificate_url: uploads/2021_3rd_Clinical_Thinking_Competition.jpg
+        - certificate_url: https://mp.weixin.qq.com/s/goDfKJD5kAaYDEsXOCWbNw
           date_end: ''
           date_start: '2021-12-25'
           description: ''
