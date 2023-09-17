@@ -208,6 +208,14 @@ sections:
           organization_url:  https://www.whu.edu.cn/
           title: Outstanding Bachelor Graduates of Wuhan University
           url: uploads/2020Outstanding_Bachelor_Graduates.jpg
+        - certificate_url: uploads/2020Photography_Contest_certi.jpg
+          date_end: ''
+          date_start: '2020-11-27'
+          description: ''
+          organization: Wuhan University
+          organization_url:  https://www.whu.edu.cn/
+          title: Second Prize in the Wuhan University Photography Contest
+          url: uploads/2020Photography_Contest_title.jpg
     design:
       columns: '2'
   - block: collection
