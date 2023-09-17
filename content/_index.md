@@ -137,11 +137,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: features
     content:
       title: Skills
@@ -198,6 +193,11 @@ sections:
     design:
       # Choose a layout view
       view: compact
+      columns: '2'
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
       columns: '2'
   - block: contact
     id: contact
