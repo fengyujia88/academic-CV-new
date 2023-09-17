@@ -254,8 +254,8 @@ sections:
           description: ''
           organization: School of Basic Medical Sciences
           organization_url: https://wbm.whu.edu.cn/
-          title: First Prize in the Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
-          url: uploads/2019merit_student.jpg
+          title: First Prize in the 3rd Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
+          url: https://mp.weixin.qq.com/s/-x8f_w8F0V9Cu6QJrQj4bQ
         - certificate_url: uploads/2018Second_Prize_Scholarship.jpg
           date_end: ''
           date_start: '2018-12-26'
@@ -280,8 +280,48 @@ sections:
           organization_url: https://medu.bjmu.edu.cn/cms/show.action?code=publish_4028801e6bf38f43016c3cde03130479&siteid=100000&channelid=0000000055
           title: Outstanding Award in the Second National Internet Plus Smart Simulated Medical Clinical Skills Competition
           url: https://www.gmc.edu.cn/info/1058/13087.htm
+        - certificate_url: uploads/2017_Second_Prize_Scholarship.jpg
+          date_end: ''
+          date_start: '2017-12-25'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2017 Second Prize Scholarship for Outstanding Students of Wuhan University
+          url: uploads/2017_Second_Prize_Scholarship.jpg
+        - certificate_url: uploads/2017Excellent_Student.jpg
+          date_end: ''
+          date_start: '2017-12-24'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: 2017 Recognized as an Excellent Student by Wuhan University
+          url: uploads/2017Excellent_Student.jpg
+        - certificate_url: uploads/2017Active_Student_Social.jpg
+          date_end: ''
+          date_start: '2017-09-24'
+          description: ''
+          organization: Wuhan University
+          organization_url: https://www.whu.edu.cn/
+          title: Active Participant in Student Social Activities of Wuhan University
+          url: uploads/2017Active_Student_Social.jpg
+        - certificate_url: uploads/2017_2nd_Anatomy_Illustration_Competition.jpg
+          date_end: ''
+          date_start: '2017-04-24'
+          description: ''
+          organization: School of Basic Medical Sciences
+          organization_url: https://wbm.whu.edu.cn/
+          title: Second Prize in the 2nd Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
+          url: https://mp.weixin.qq.com/s/jWPBj5x-OUypKCC9DoDA4g
+        - certificate_url: uploads/2017_2nd_Anatomy_Illustration_Competition.jpg
+          date_end: ''
+          date_start: '2017-04-24'
+          description: ''
+          organization: School of Basic Medical Sciences
+          organization_url: https://wbm.whu.edu.cn/
+          title: Second Prize in the 2nd Anatomy Illustration Competition held by the School of Basic Medical Sciences of Wuhan University
+          url: https://wbm.whu.edu.cn/info/1217/4216.htm
     design:
-      columns: '3'
+      columns: '2'
   - block: collection
     id: posts
     content:
