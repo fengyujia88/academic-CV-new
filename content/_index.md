@@ -192,14 +192,14 @@ sections:
           organization_url:  https://www.whu.edu.cn/
           title: 2021 First Prize Graduate Excellent Academic Scholarship of Wuhan University
           url: uploads/2021First_Prize_Scholarship.pdf
-        - certificate_url: uploads/2020_2nd_EKG_team1.jpg
+        - certificate_url: uploads/2020_2nd_EKG_team.jpg
           date_end: ''
           date_start: '2020-12-25'
           description: ''
           organization: Zhongnan Hospital of Wuhan University
           organization_url: https://www.znhospital.cn/index.html
           title: Third Prize in the Team Category of the 2nd ECG Championship held by Zhongnan Hospital of Wuhan University
-          url: uploads/2020_2nd_EKG_team.jpg
+          url: uploads/2020_2nd_EKG_team1.jpg
         - certificate_url: uploads/2020Outstanding_Bachelor_Graduates.jpg
           date_end: ''
           date_start: '2020-05-27'
