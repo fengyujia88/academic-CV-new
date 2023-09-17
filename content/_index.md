@@ -119,7 +119,7 @@ sections:
           organization_url: https://www.whu.edu.cn/
           title: First Prize Graduate Excellent Academic Scholarship of Wuhan University
           url: ''
-	      link: uploads/2022First_Prize_Scholarship.pdf
+          link: 'uploads/2022First_Prize_Scholarship.pdf'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
