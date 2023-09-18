@@ -1,6 +1,5 @@
 ---
-title: Cohort Study:the The Relationship Between atherogenic index of
-plasma (AIP) and Collateral Circulation Formation in chronic total occlusive (CTO) patients
+title: Cohort Study:the The Relationship Between atherogenic index of plasma (AIP) and Collateral Circulation Formation in chronic total occlusive (CTO) patients
 summary: Led a retrospective cohort study focusing on the relationship between blood lipid indicators and Collateral Circulation Formation in chronic total occlusive (CTO) patients.
 tags:
   - Cohort Study
