@@ -37,6 +37,8 @@ slides: ''
 ---
 **I designed the entire network meta-analysis, formulated all search strategies, and collaborated with my peers to conduct literature screening and data extraction. I also carried out the entire subsequent analysis process, including pairwise meta-analyses, network meta-analysis, and sensitivity analyses.**   
 {style="text-align: justify;"}
+**In this project, I published an article as the first author**
+{style="text-align: justify;"}
 **Objectives:** Recently, several randomized trials have shown
 that patients with multivessel disease (MVD) often pursue complete
 revascularization during percutaneous coronary intervention (PCI) to
