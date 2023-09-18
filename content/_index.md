@@ -130,7 +130,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: collection
+  - block: accomplishments
     id: Honors & Awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -354,7 +354,6 @@ sections:
           url: uploads/2015Debate-Tournament.jpg
     design:
       columns: '2'
-      view: compact
   - block: collection
     id: posts
     content:
