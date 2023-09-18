@@ -36,7 +36,7 @@ url_video: ''
 slides: ''
 ---
 **In this study, I participated in the research design and conducted a portion of the data analysis, primarily utilizing SPSS software for logistic regression analysis and employing R for net reclassification index (NRI) calculation.**   
-
+{style="text-align: justify;"}
 **Objective:** The atherogenic index of plasma (AIP), determined by the logarithmic transformation of the ratio of triglyceride (TG)
 and high-density lipoprotein cholesterol (HDL-C), was found to be a marker of cardiovascular disease. We sought to investigate the
 correlation between the atherogenic index of plasma (AIP) and coronary collateral circulation (CCC) formation in chronic total occlusive

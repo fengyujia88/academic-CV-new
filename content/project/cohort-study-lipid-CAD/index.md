@@ -36,6 +36,7 @@ url_video: ''
 slides: ''
 ---
 **In this study, I was involved in the research design and conducted all data analysis (primarily using SPSS software)**   
+{style="text-align: justify;"}
 
 **Objective:** Dyslipidemia is a key risk factor for coronary artery disease (CAD). This
 study aimed to investigate the correlation between the atherogenic index of
