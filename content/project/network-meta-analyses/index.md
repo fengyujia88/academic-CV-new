@@ -35,8 +35,34 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-
-**There are three percutaneous coronary intervention (PCI) strategies** for ST-segment elevation myocardial infarction (STEMI) patients with multivessel coronary artery disease: (1) complete revascularization (CR), which refers to multivessel PCI at the index procedure; (2) staged revascularization (SR), which refers to culprit artery-only primary PCI followed by staged PCI of non-culprit arteries, either during hospitalization or shortly after discharge; and (3) culprit-only revascularization (COR), which refers to culprit artery-only PCI.  
-**This study primarily employed R and STATA software for network meta-analysis, comparing the long-term impact of three non-culprit vessel intervention strategies** (i.e., COR, CR, SR) on STEMI patients' prognosis, thereby providing evidence-based guidance for the selection of PCI strategies.  
-**The research process involved** the screening of over 5000 articles, extracting relevant information from randomized controlled trials (RCTs) meeting the criteria, and subsequently conducting data analysis using R and STATA software. Forest plots were generated, and sensitivity analyses were performed.  
+**I designed the entire network meta-analysis, formulated all search strategies, and collaborated with my peers to conduct literature screening and data extraction. I also carried out the entire subsequent analysis process, including pairwise meta-analyses, network meta-analysis, and sensitivity analyses.**   
+{style="text-align: justify;"}
+**Objectives:** Recently, several randomized trials have shown
+that patients with multivessel disease (MVD) often pursue complete
+revascularization during percutaneous coronary intervention (PCI) to
+improve their prognosis. However, the optimal time for the non-culprit artery
+has been controversial. This study aimed to determine the optimal strategy
+for revascularization in ST-segment elevation myocardial infarction (STEMI)
+patients with multivessel coronary artery disease (CAD).  
+**Methods:** Randomized controlled trials (RCTs) comparing three
+revascularization strategies [i.e., complete revascularization at the index
+procedure (CR), complete revascularization as a staged procedure (SR),
+or culprit-only revascularization (COR)] in STEMI patients with multivessel
+coronary artery disease were included. We performed both pairwise and
+network meta-analyses. Network meta-analysis was performed using mixed
+treatment comparison models.  
+**Results:** 17 trials with 8568 patients were included. In the network meta-
+analysis, the most interesting finding was that staged revascularization
+increased the risk of major adverse cardiac events (MACE) compared with
+complete revascularization at the index procedure [odds ratio (OR): 1.93;
+95% confidence interval (CI): 1.07–3.49]. In the pairwise meta-analysis,
+complete revascularization reduced the incidence of MACE [risk ratio
+(RR): 0.62, 95% CI: 0.48–0.79, p < 0.001], mainly because it reduced
+the probability of unplanned repeat revascularization (RR: 0.49, 95% CI:
+0.33–0.75, p = 0.001). There were no significant differences in all-
+cause mortality, cardiac mortality, or nonfatal re-myocardial infarction (MI).  
+**Conclusion:** Our analysis suggests that complete revascularization should
+be performed in STEMI patients with multivessel coronary artery disease,
+and complete revascularization at the index procedure is superior to staged
+revascularization in reducing the risk of MACE events.
 {style="text-align: justify;"}
