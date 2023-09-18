@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Leadership
 cms_exclude: true
 
 # View.
