@@ -36,7 +36,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-
+**In this project, I was responsible for both the bioinformatics analysis and latent class analysis sections, and I also wrote the latent class analysis section of the proposal. The bioinformatics analysis involved analyzing the GSE113969 dataset to identify key genes and generate volcano plots, heat plots, protein interaction network diagrams, GO enrichment plots, and KEGG tables. These findings can be further validated through animal experiments. The latent class analysis section aimed to identify homogeneous groups with similar characteristics and prognoses among the population in Hubei province through detailed studies of comorbidity patterns. This, in turn, can lead to targeted intervention strategies.**   
+{style="text-align: justify;"}
 **Responsible for the latent class analysis (LCA) and bioinformatics analysis of the project** aimed at establishing and applying an assessment and management framework for hyperlipidemia in Hubei Province.  
 **The primary focus** was on unraveling multimorbidity patterns and corresponding risk factors within the population of Hubei Province.  
 **Furthermore, the project also aims to** utilize bioinformatics analysis to uncover genes and signaling pathways associated with coronary atherosclerosis, and validation is planned through the utilization of animal models and clinical patient specimens.
