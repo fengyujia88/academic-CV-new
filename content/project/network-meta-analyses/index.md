@@ -1,8 +1,8 @@
 ---
-title: network meta-analysis
+title: Network Meta-Analysis
 summary: Designed and performed a network meta-analysis to compare the three intervention strategies (i.e., complete revascularization (CR), staged revascularization (SR), and culprit-only revascularization (COR)). The study aimed to determine the optimal strategy for revascularization in ST-segment elevation myocardial infarction (STEMI) patients with multivessel CAD
 tags:
-  - network meta-analysis
+  - Network Meta-Analysis
 date: '2020-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -36,7 +36,7 @@ url_video: ''
 slides: ''
 ---
 
-**There are three percutaneous coronary intervention (PCI) strategies** for ST-segment elevation myocardial infarction (STEMI) patients with multivessel coronary artery disease: (1) complete revascularization (CR), which refers to multivessel PCI at the index procedure; (2) staged revascularization (SR), which refers to culprit artery-only primary PCI followed by staged PCI of non-culprit arteries, either during hospitalization or shortly after discharge; and (3) culprit-only revascularization (COR), which refers to culprit artery-only PCI. 
-**This study primarily employed R and STATA software for network meta-analysis, comparing the long-term impact of three non-culprit vessel intervention strategies** (i.e., COR, CR, SR) on STEMI patients' prognosis, thereby providing evidence-based guidance for the selection of PCI strategies. 
-**The research process involved** the screening of over 5000 articles, extracting relevant information from randomized controlled trials (RCTs) meeting the criteria, and subsequently conducting data analysis using R and STATA software. Forest plots were generated, and sensitivity analyses were performed.
+**There are three percutaneous coronary intervention (PCI) strategies** for ST-segment elevation myocardial infarction (STEMI) patients with multivessel coronary artery disease: (1) complete revascularization (CR), which refers to multivessel PCI at the index procedure; (2) staged revascularization (SR), which refers to culprit artery-only primary PCI followed by staged PCI of non-culprit arteries, either during hospitalization or shortly after discharge; and (3) culprit-only revascularization (COR), which refers to culprit artery-only PCI.  
+**This study primarily employed R and STATA software for network meta-analysis, comparing the long-term impact of three non-culprit vessel intervention strategies** (i.e., COR, CR, SR) on STEMI patients' prognosis, thereby providing evidence-based guidance for the selection of PCI strategies.  
+**The research process involved** the screening of over 5000 articles, extracting relevant information from randomized controlled trials (RCTs) meeting the criteria, and subsequently conducting data analysis using R and STATA software. Forest plots were generated, and sensitivity analyses were performed.  
 {style="text-align: justify;"}
