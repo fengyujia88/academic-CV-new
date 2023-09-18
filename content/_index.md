@@ -103,7 +103,7 @@ sections:
   - block: experience
     id: Experience
     content:
-      title: Experience
+      title: Internship & rotation
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -113,27 +113,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Rotate in Internal Medicine
+          company: Zhongnan Hospital of Wuhan University
+          company_url: https://www.znhospital.cn/index.html
+          company_logo: uploads/logo.png
+          location: Wuhan
+          date_start: '2020-09-01'
+          date_end: '2023-05-30'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Residency training for 3 years
+              * Obtained the certification as a licensed medical practitioner in China
+              * Annual Outstanding Resident Physician of Zhongnan Hospital of Wuhan University in 2021
+        - title: Internship
+          company: Zhongnan Hospital of Wuhan University
+          company_url: https://www.znhospital.cn/index.html
+          company_logo: uploads/logo.png
+          location: Wuhan
+          date_start: '2019-06-01'
+          date_end: '2020-06-01'
+          description: Completed Internship rotations in the fields of Internal Medicine, Surgery, Obstetrics and Gynecology, and Pediatrics
     design:
       columns: '2'
   - block: accomplishments
@@ -174,6 +174,14 @@ sections:
           organization_url: https://www.whu.edu.cn/
           title: 2022 Outstanding Student Leader
           url: uploads/2022Outstanding_Student_Leader.pdf
+        - certificate_url: uploads/2021Outstanding-Resident-Physician.jpg
+          date_end: ''
+          date_start: '2022-01-12'
+          description: ''
+          organization: Zhongnan Hospital of Wuhan University
+          organization_url: https://www.znhospital.cn/index.html
+          title: Annual Outstanding Resident Physician of Zhongnan Hospital of Wuhan University in 2021
+          url: uploads/2021Outstanding-Resident-Physician.jpg
         - certificate_url: uploads/2021_3rd_Clinical_Thinking_Competition.jpg
           date_end: ''
           date_start: '2021-10-29'
