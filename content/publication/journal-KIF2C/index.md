@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Bladder cancer patient tumor-specific survival curve (up) & Overall Survival Curve (down)'
   focal_point: ""
   preview_only: false
 

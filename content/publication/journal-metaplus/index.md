@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Meta-regression Forest Plot of the Relationship Between Duration and Study Effect Size'
   focal_point: ""
   preview_only: false
 

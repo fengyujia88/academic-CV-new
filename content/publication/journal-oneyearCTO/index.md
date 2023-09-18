@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Kaplan-Meier Survival Curves for MACE Events (Red Line for Successful PCI Patients, Blue Line for PCI Failure Patients)'
   focal_point: ""
   preview_only: false
 
