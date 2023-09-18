@@ -38,5 +38,5 @@ slides: ''
 **In this project, I published 2 articles as the first author and co-authored 4 articles.**   
 {style="text-align: justify;"}
 **Led a bioinformatics analysis of GEO datasets** to clarify the relationship between a gene named KIF2C expression and clinicopathological characteristics of bladder cancer, and to evaluate the possibility of using KIF2C as a prognosis marker in bladder cancer.  
-**Participated as a principal analyst** in a study utilizing gene co-expression networks for the analysis of bladder cancer biomarkers. 
+**Participated as a principal analyst** in studies utilizing gene co-expression networks for the analysis of bladder cancer biomarkers. 
 {style="text-align: justify;"}
