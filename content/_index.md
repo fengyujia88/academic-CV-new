@@ -121,7 +121,6 @@ sections:
           date_start: '2020-09-01'
           date_end: '2023-05-30'
           description: |2-
-              Responsibilities include:
 
               * Residency training for 3 years
               * Obtained the certification as a licensed medical practitioner in China
