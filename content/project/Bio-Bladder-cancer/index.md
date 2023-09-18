@@ -1,6 +1,6 @@
 ---
 title: Bioinformatics Analysis
-summary: Utilizing the GEO datasets for bioinformatics analysis of bladder cancer
+summary: Utilizing R for the GEO datasets for bioinformatics analysis of bladder cancer
 tags:
   - Bioinformatics Analysis
 date: '2018-07-27T00:00:00Z'
