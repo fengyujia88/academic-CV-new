@@ -135,6 +135,33 @@ sections:
           description: Completed Internship rotations in the fields of Internal Medicine, Surgery, Obstetrics and Gynecology, and Pediatrics
     design:
       columns: '2'
+  - block: collection
+    id: Leadership
+    content:
+      title: Leadership & Volunteer Experience
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 4
+      # Filter on criteria
+      filters:
+        folders:
+          - Leadership
+        author: admin
+        category: ""
+        tag: Leadership & Volunteer Experience
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: accomplishments
     id: Honors & Awards
     content:
@@ -370,11 +397,11 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Hobbies
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         folders:
@@ -396,7 +423,7 @@ sections:
       columns: '2'
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Key Topics
     design:
       columns: '2'
   - block: contact
