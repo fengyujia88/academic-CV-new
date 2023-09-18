@@ -20,10 +20,10 @@ links:
     url: https://twitter.com/fngyji276788767s
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rXBaX0YAAAAJ&gmla=AP6z3OZCTstNTTjOK4o_cpHmS60fkZO-VKelMQXFbyeS6ItMH-cOvy5O54Egj0FUK3Kj9XQlXwDYza9MwK6VYCURCYbDkIwgEcSprvFVamQ
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rXBaX0YAAAAJ&gmla=AP6z3OZCTstNTTjOK4o_cpHmS60fkZO-VKelMQXFbyeS6ItMH-cOvy5O54Egj0FUK3Kj9XQlXwDYza9MwK6VYCURCYbDkIwgEcSprvFVamQ
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fengyujia@whu.edu.cn'
+    url: 'mailto:fengyujia@whu.edu.cn'
 url_code: ''
 url_pdf: ''
 url_slides: ''
