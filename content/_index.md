@@ -149,7 +149,7 @@ sections:
           - Leadership
         author: admin
         category: ""
-        tag: Leadership & Volunteer Experience
+        tag: ''
         exclude_featured: false
         exclude_future: false
         exclude_past: false
