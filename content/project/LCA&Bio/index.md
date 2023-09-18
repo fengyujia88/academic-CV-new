@@ -37,5 +37,7 @@ url_video: ''
 slides: ''
 ---
 
-**Responsible for the latent class analysis (LCA) and bioinformatics analysis of the project** aimed at establishing and applying an assessment and management framework for hyperlipidemia in Hubei Province. **The primary focus** was on unraveling multimorbidity patterns and corresponding risk factors within the population of Hubei Province. **Furthermore, the project also aims to** utilize bioinformatics analysis to uncover genes and signaling pathways associated with coronary atherosclerosis, and validation is planned through the utilization of animal models and clinical patient specimens.
+**Responsible for the latent class analysis (LCA) and bioinformatics analysis of the project** aimed at establishing and applying an assessment and management framework for hyperlipidemia in Hubei Province.  
+**The primary focus** was on unraveling multimorbidity patterns and corresponding risk factors within the population of Hubei Province.  
+**Furthermore, the project also aims to** utilize bioinformatics analysis to uncover genes and signaling pathways associated with coronary atherosclerosis, and validation is planned through the utilization of animal models and clinical patient specimens.
 {style="text-align: justify;"}
