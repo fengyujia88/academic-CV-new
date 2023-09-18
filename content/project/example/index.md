@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Utilized R and Mplus software for latent class analysis (LCA) and bioinformatics analysis of the association between blood lipids and coronary atherosclerosis
+summary: Responsible for the latent class analysis (LCA) and bioinformatics analysis of the project aimed at establishing and applying an assessment and management framework for hyperlipidemia in Hubei Province. The primary focus was on unraveling multimorbidity patterns and corresponding risk factors within the population of Hubei Province. Furthermore, the project also aims to utilize bioinformatics analysis to uncover genes and signaling pathways associated with coronary atherosclerosis, and validation is planned through the utilization of animal models and clinical patient specimens
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'

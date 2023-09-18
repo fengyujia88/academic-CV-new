@@ -14,7 +14,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research Experience
       filters:
         folders:
           - project
@@ -72,8 +72,8 @@ sections:
           description: Throughout the course of conducting bioinformatics analyses and meta-analyses, I attained a comprehensive understanding of the R programming language
           icon: r-project
           icon_pack: fab
-        - name: SQL
-          description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language
+        - name: SQL & Navicat
+          description: During the analysis of the MIMIC database, I acquired proficiency in using the SQL language and Navicat software
           icon: database
           icon_pack: fas
         - name: STATA & Rev Man
@@ -88,10 +88,10 @@ sections:
           description: Throughout the process of latent class analysis, I gained proficiency in utilizing the Mplus software
           icon: m
           icon_pack: fas
-        - name: Navicat & Cytoscape
-          description: During the course of conducting bioinformatics analysis, I learned to use the Navicat and Cytoscape software
-          icon: cat
-          icon_pack: fas
+        - name:  Cytoscape
+          description: During the course of conducting bioinformatics analysis, I learned to use the Cytoscape software
+          icon: hubspot
+          icon_pack: fab
     design:
       columns: '6'
   - block: experience
