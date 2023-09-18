@@ -32,6 +32,8 @@ sections:
           tag: Bioinformatics Analysis
         - name: Latent Class Analysis
           tag: Latent Class Analysis
+        - name: MIMIC-III database
+          tag: MIMIC-III database
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

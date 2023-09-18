@@ -1,16 +1,15 @@
 ---
-title: Latent Class Analysis (LCA) & Bioinformatics Analysis
-summary: Utilized R and Mplus software for latent class analysis (LCA) and bioinformatics analysis of the association between blood lipids and coronary atherosclerosis
+title: MIMIC-III database
+summary: Utilized Navicat software to conduct analysis on the MIMIC-III database, aiming to study the influence of blood lipids on the prognosis of patients with coronary heart disease (CAD)
 tags:
-  - Latent Class Analysis
-  - Bioinformatics Analysis
-date: '2022-07-27T00:00:00Z'
+  - MIMIC-III database
+date: '2019-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Protein Interaction Network Diagram
+  caption: Integrated Patient Information
   focal_point: Smart
 
 links:
@@ -37,5 +36,5 @@ url_video: ''
 slides: ''
 ---
 
-**Responsible for the latent class analysis (LCA) and bioinformatics analysis of the project** aimed at establishing and applying an assessment and management framework for hyperlipidemia in Hubei Province. **The primary focus** was on unraveling multimorbidity patterns and corresponding risk factors within the population of Hubei Province. **Furthermore, the project also aims to** utilize bioinformatics analysis to uncover genes and signaling pathways associated with coronary atherosclerosis, and validation is planned through the utilization of animal models and clinical patient specimens.
+**Extracting the necessary information from the 16 tables in the MIMIC-III database** and analyzing the relationship between medication (e.g., post-PCI anticoagulation) and serum biomarkers (e.g., lipid profiles) with patient prognosis.
 {style="text-align: justify;"}
