@@ -9,7 +9,7 @@ date: '2020-05-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Integrated Patient Information
+  caption: PRISMA study search flow diagram
   focal_point: Smart
 
 links:
