@@ -354,6 +354,7 @@ sections:
           url: uploads/2015Debate-Tournament.jpg
     design:
       columns: '2'
+	  view: showcase
   - block: collection
     id: posts
     content:
