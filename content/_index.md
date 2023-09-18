@@ -34,6 +34,8 @@ sections:
           tag: Latent Class Analysis
         - name: MIMIC-III database
           tag: MIMIC-III database
+        - name: network meta-analysis
+          tag: network meta-analysis
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
