@@ -116,7 +116,7 @@ sections:
         - title: Rotate in Internal Medicine
           company: Zhongnan Hospital of Wuhan University
           company_url: https://www.znhospital.cn/index.html
-          company_logo: uploads/logo.png
+          company_logo: ''
           location: Wuhan
           date_start: '2020-09-01'
           date_end: '2023-05-30'
@@ -129,7 +129,7 @@ sections:
         - title: Internship
           company: Zhongnan Hospital of Wuhan University
           company_url: https://www.znhospital.cn/index.html
-          company_logo: uploads/logo.png
+          company_logo: ''
           location: Wuhan
           date_start: '2019-06-01'
           date_end: '2020-06-01'
