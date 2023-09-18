@@ -35,7 +35,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-**In this study, I was involved in the research design and conducted all data analysis (primarily using SPSS software)** 
+**In this study, I was involved in the research design and conducted all data analysis (primarily using SPSS software)**   
+
 **Objective:** Dyslipidemia is a key risk factor for coronary artery disease (CAD). This
 study aimed to investigate the correlation between the atherogenic index of
 plasma (AIP) and the severity of CAD.  
