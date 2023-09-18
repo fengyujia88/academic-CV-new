@@ -16,13 +16,13 @@ main:
   - name: Skills
     url: '#Skills'
     weight: 55
-  - name: Internship & rotation
+  - name: Internship
     url: '#Experience'
     weight: 60
-  - name: Leadership & Volunteer Experience
+  - name: Leadership
     url: '#Leadership'
     weight: 65
-  - name: Honors & Awards
+  - name: Honors
     url: '#Honors & Awards'
     weight: 70
   - name: Hobbies
