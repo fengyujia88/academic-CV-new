@@ -30,15 +30,12 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Volunteer Experience
 
 categories:
-  - Demo
-  - 教程
+  - Volunteer Experience
 ---
 
 
