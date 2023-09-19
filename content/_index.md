@@ -208,6 +208,7 @@ sections:
           organization_url: https://www.znhospital.cn/index.html
           title: Annual Outstanding Resident Physician of Zhongnan Hospital of Wuhan University in 2021
           url: uploads/2021Outstanding-Resident-Physician.jpg
+        {{</* spoiler text="Click to view more" */>}}
         - certificate_url: uploads/2021_3rd_Clinical_Thinking_Competition.jpg
           date_end: ''
           date_start: '2021-10-29'
@@ -392,6 +393,7 @@ sections:
           organization_url: https://wbm.whu.edu.cn/
           title: Third Prize in the Freshman Debate Tournament held by the School of Basic Medical Sciences of Wuhan University
           url: uploads/2015Debate-Tournament.jpg
+        {{</* /spoiler */>}}
     design:
       columns: '2'
   - block: collection
