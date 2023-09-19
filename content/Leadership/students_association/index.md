@@ -1,5 +1,5 @@
 ---
-title: Student Association Guidance Center, President
+title: Student Association Guidance Center, Vice President
 subtitle: From September 2016 to September 2017, held the position of Vice President in the Supervision Department at the Student Union Guidance Center, Wuhan University, for one year.
 
 # Summary for listings and search engines
@@ -44,10 +44,12 @@ categories:
 
 **Participated in the organization** of the 2015-2016 Wuhan University Top Ten Student Organizations Selection Evening. **Main responsibilities included** coordinating and liaising with various student organizations, collecting materials they needed to showcase during the event, creating the procedural PowerPoint presentation, managing the playback of presentation materials and procedural PPTs during the event, and handling any unforeseen situations.  
 {style="text-align: justify;"}
+
+## 7th Student Organization International Exchange Camp
+{style="text-align: justify;"}
 ![png](./proposal_sample1.png)
 ![png](./proposal_sample2.png)
 ![png](./proposal_sample3.png)
-## 7th Student Organization International Exchange Camp
-
+![jpg](./international_camp.jpg)
 **Participated in event proposal drafting and personnel scheduling**, primarily responsible for coordinating and communicating with participants during the event, creating procedural PowerPoint presentations. **During the forum, the main responsibility** was overseeing the event flow and handling various unforeseen situations.  
-
+{style="text-align: justify;"}
