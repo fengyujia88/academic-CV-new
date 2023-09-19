@@ -74,3 +74,4 @@ Bladder cancer (BC) is one of the most malignancies in terms of incidence and re
 {{% callout note %}}
 Click the _Cite_ button above to import the reference into the reference management software.
 {{% /callout %}}
+![png](./figure2up.png)
