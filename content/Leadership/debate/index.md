@@ -29,6 +29,7 @@ image:
   preview_only: false
 authors:
   - admin
+url_pdf: 'uploads/tragedy-of-human-life.pdf'
 
 tags:
   - Leadership Experience
