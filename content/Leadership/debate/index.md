@@ -1,18 +1,18 @@
 ---
 title: Debate Team, Membership
-subtitle: From September 2015 to September 2016, held the position of Vice President in the Supervision Department at the Student Union Guidance Center, Wuhan University, for one year.
+subtitle: In September 2015, I joined the Debate Team of the School of Basic Medical Sciences at Wuhan University.
 
 # Summary for listings and search engines
-summary: From September 2016 to September 2017, held the position of Vice President in the Supervision Department at the Student Union Guidance Center, Wuhan University, for one year.
+summary: In September 2015, I joined the Debate Team of the School of Basic Medical Sciences at Wuhan University.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2016-09-13T00:00:00Z'
+date: '2015-09-01T00:00:00Z'
 
 # Date updated
-lastmod: '2017-09-13T00:00:00Z'
+lastmod: '2016-09-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,11 +23,11 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'A group photo of the top twenty Student Organizations and organizers from the 2015-2016 Wuhan University Top Ten Student Organizations Selection Evening'
+  caption: 'Debate Competition Self-Introduction Photo'
   focal_point: ''
   placement: 1
   preview_only: false
-
+  url_pdf: uploads/2022Outstanding_Graduate.pdf
 authors:
   - admin
 
