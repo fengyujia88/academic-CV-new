@@ -42,9 +42,6 @@ categories:
 
 **Recipient of the second prize in the Wuhan University Photography Contest.**  
 {style="text-align: justify;"}
-![png](./secondprize.png)
-I won the **second prize** in the 2nd Anatomy Illustration Competition held at Wuhan University School of Basic Medical Sciences.  
-{style="text-align: justify;"}
 
 ## Showcasing amateur artwork in leisure time
 ![jpg](./1.jpg)
