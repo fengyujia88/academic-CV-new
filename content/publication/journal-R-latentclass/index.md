@@ -40,7 +40,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'LCA-poLCA'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -57,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 'LCA-poLCA'
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

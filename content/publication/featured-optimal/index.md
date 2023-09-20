@@ -55,7 +55,7 @@ url_pdf: ''
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
-url_project: ''
+url_project: 'cohort-study-optimal-time'
 url_slides: ''
 #url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_video: 'https://youtube.com'
@@ -72,7 +72,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 'cohort-study-optimal-time'
+projects: []
 #  - example
 
 # Slides (optional).
