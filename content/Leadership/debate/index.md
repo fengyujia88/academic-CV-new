@@ -29,7 +29,7 @@ image:
   preview_only: false
 authors:
   - admin
-title: Click the link to view the argumentation sample
+subtitle: Click the link to view the argumentation sample
 url: 'uploads/tragedy-of-human-life.pdf'
 
 tags:
