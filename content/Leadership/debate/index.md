@@ -30,7 +30,7 @@ image:
 authors:
   - admin
 title: Click the link to view the argumentation sample
-url_pdf: 'uploads/tragedy-of-human-life.pdf'
+url: 'uploads/tragedy-of-human-life.pdf'
 
 tags:
   - Leadership Experience
