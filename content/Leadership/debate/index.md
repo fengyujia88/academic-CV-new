@@ -41,5 +41,5 @@ categories:
 {style="text-align: justify;"}
 As a member of the debate team, I participated as the first speaker in the School of Basic Medical Sciences Freshman Debate Competition and Wuhan University Freshman Debate Competition. I also served as the fourth speaker in a Fun Debate Competition. **Our team received the third prize in the School of Basic Medical Sciences Freshman Debate Competition, and I was awarded the title of 'Best Speaker' in the Fun Debate Competition.**  
 {style="text-align: justify;"}
-[Click the link to view the argumentation sample](File:///E:/Hugo/academic-CV-new/static/uploads/The-attachment-to-possession-is-the-existential-tragedy-of-human-life.pdf)
+[Click the link to view the argumentation sample](File:///E:/Hugo/academic-CV-new/static/uploads/tragedy-of-human-life.pdf)
 
