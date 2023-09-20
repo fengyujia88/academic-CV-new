@@ -397,7 +397,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Hobbies
+      title: hobbies
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -405,7 +405,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - hobbies
         author: ""
         category: ""
         tag: ""
