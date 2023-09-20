@@ -45,7 +45,7 @@ featured: false
 #url_code: ''
 #url_dataset: ''
 url_poster: ''
-url_project: 'cohort-study-lipid-CTO'
+url_project: 'project/cohort-study-lipid-CTO'
 url_slides: ''
 url_source: ''
 url_video: ''
