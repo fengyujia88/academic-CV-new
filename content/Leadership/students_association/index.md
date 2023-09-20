@@ -41,7 +41,7 @@ categories:
 
 ![jpg](./topten2.jpg)
 ## Top Ten Student Organizations Selection Evening
-
+{style="text-align: justify;"}
 **Participated in the organization** of the 2015-2016 Wuhan University Top Ten Student Organizations Selection Evening. **Main responsibilities included** coordinating and liaising with various student organizations, collecting materials they needed to showcase during the event, creating the procedural PowerPoint presentation, managing the playback of presentation materials and procedural PPTs during the event, and handling any unforeseen situations.  
 {style="text-align: justify;"}
 
