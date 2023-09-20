@@ -29,7 +29,8 @@ image:
   preview_only: false
 authors:
   - admin
-url_pdf: [Click the link to view the argumentation sample]('uploads/tragedy-of-human-life.pdf')
+title: Click the link to view the argumentation sample
+url_pdf: 'uploads/tragedy-of-human-life.pdf'
 
 tags:
   - Leadership Experience
