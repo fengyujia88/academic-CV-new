@@ -43,3 +43,6 @@ categories:
 {style="text-align: justify;"}
 **Participated as a representative of the Brazil** in the 6th Model United Nations Conference at Huazhong Normal University. Discussion and negotiation on the topic of **preventing the proliferation of nuclear weapons.**   
 {style="text-align: justify;"}
+![png](./3.jpg)
+**I represented the United Kingdom** at the 6th Wuhan University Model United Nations Conference and participated in discussions and negotiations regarding the issue of **nuclear proliferation threat in the Middle East.**   
+{style="text-align: justify;"}
