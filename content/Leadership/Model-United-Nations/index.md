@@ -37,8 +37,9 @@ tags:
 categories:
   - Leadership Experience
 ---
-
-## The 10th Model United Nations Conference at Huazhong University of Science and Technology  
+![png](./1.jpg)
+![png](./2.jpg)
+## The 6th Model United Nations Conference at Huazhong Normal University  
 {style="text-align: justify;"}
-**Participated as a representative of the United Kingdom** in the 10th Model United Nations Conference at Huazhong University of Science and Technology.  
+**Participated as a representative of the Brazil** in the 6th Model United Nations Conference at Huazhong Normal University. Discussion and negotiation on the topic of **preventing the proliferation of nuclear weapons.**   
 {style="text-align: justify;"}
