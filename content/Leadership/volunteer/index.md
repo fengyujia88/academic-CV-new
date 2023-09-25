@@ -38,7 +38,7 @@ categories:
   - Volunteer Experience
 ---
 
-![jpg](.\1.jpg)
+![jpg](./1.jpg)
 
 ## Overview
 
