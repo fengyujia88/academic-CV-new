@@ -16,7 +16,7 @@ main:
   - name: Skills
     url: '#Skills'
     weight: 55
-  - name: Internship
+  - name: Work Experience
     url: '#Experience'
     weight: 60
   - name: Leadership
