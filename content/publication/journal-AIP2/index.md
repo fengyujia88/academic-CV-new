@@ -13,7 +13,7 @@ author_notes:
 - "co-first author"
 - "co-first author"
 date: "2023-08-18T00:00:00Z"
-doi: ""
+doi: "10.31083/j.rcm2410305"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-18T00:00:00Z"
@@ -25,7 +25,7 @@ publishDate: "2023-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Rev. Cardiovasc. Med.* Accepted"
+publication: "*Rev. Cardiovasc. Med.* 2023, 24(10), 305."
 publication_short: ""
 
 abstract: ""
