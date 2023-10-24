@@ -25,7 +25,7 @@ publishDate: "2023-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Rev. Cardiovasc. Med.* 2023, 24(10), 305."
+publication: "*Rev. Cardiovasc. Med.* 2023, 24(10), 305"
 publication_short: ""
 
 abstract: ""
