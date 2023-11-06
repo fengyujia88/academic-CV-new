@@ -113,7 +113,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Rotate in Internal Medicine
+        - title: Resident training in Internal Medicine
           company: Zhongnan Hospital of Wuhan University
           company_url: https://www.znhospital.cn/index.html
           company_logo: ''
