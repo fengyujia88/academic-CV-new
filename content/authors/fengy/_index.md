@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: PhD Candidate
+role: in pursuit of a Ph.D. opportunity
 
 # Organizations/Affiliations to show in About widget
 organizations:
