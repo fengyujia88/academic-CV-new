@@ -26,6 +26,7 @@ bio: My current research interests include bioinformatics analysis, clinical coh
 
 # Interests to show in About widget
 interests:
+  - Biomedical Experiment
   - Bioinformatics Analysis
   - Randomized Controlled Trials
   - Clinical Cohort Studies
