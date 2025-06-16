@@ -14,18 +14,21 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: in pursuit of a Ph.D. opportunity
+role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
-
+organizations:
+  - name: Monash University
+    url: https://www.monash.edu/
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
+bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, latent class analyses ,and AI model base on medical imaging related to cancer.
 style: "text-align: justify;"
 # Interests to show in About widget
 interests:
+  - AI model based on medical imaging
   - Bioinformatics Analysis
   - Randomized Controlled Trials
   - Clinical Cohort Studies
@@ -35,6 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MMed in Internal Medicine
+      institution: School of Translational Medicine, Monash University
+      scholarship: Monash Graduate Scholarship (MGS); Monash International Tuition Scholarship (MITS)
+      year: 10/2024 – present
     - course: MMed in Cardiovascular Medicine
       institution: Second School of Clinical Medicine, Wuhan University
       year: 09/2020 – 06/2023
@@ -79,13 +86,13 @@ social:
     link: uploads/code.jpg 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'fengyujia@whu.edu.cn'
+email: 'yujia.feng@monash.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Welcome to my personal website. I am a student from mainland China. 
-I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine with a specialization in Cardiovascular Medicine at Wuhan University. 
-My current research interests lie in the field of cardiovascular medicine, focusing on bioinformatics analysis, cohort studies, clinical trials, meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, percutaneous coronary intervention (PCI), and hyperlipidemia.
+I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine at Wuhan University. I am currently pursuing a Ph.D. in Medicine at Monash University.
+My current research interests lie in constructing AI models based on medical imaging.
 {style="text-align: justify;"}

@@ -41,7 +41,7 @@ education:
   courses:
     - course: MMed in Internal Medicine
       institution: School of Translational Medicine, Monash University
-	  scholarship: Monash Graduate Scholarship (MGS); Monash International Tuition Scholarship (MITS)
+      scholarship: Monash Graduate Scholarship (MGS); Monash International Tuition Scholarship (MITS)
       year: 10/2024 – present
     - course: MMed in Internal Medicine
       institution: Second School of Clinical Medicine, Wuhan University
@@ -87,12 +87,12 @@ social:
     link: uploads/code.jpg 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'fengyujia@whu.edu.cn'
+email: 'yujia.feng@monash.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Welcome to my personal website. I am a student from mainland China. 
-I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine at Wuhan University. I am currently pursuing a Ph.D. in Medicine at Monash University
+I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine at Wuhan University. I am currently pursuing a Ph.D. in Medicine at Monash University. 
 {style="text-align: justify;"}
