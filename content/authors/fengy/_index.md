@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
