@@ -14,18 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: in pursuit of a Ph.D. opportunity
+role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
-
+organizations:
+  - name: Monash University
+    url: https://www.monash.edu/
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, and latent class analyses related to coronary artery disease, myocardial infarction, and hyperlipidemia.
+bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, latent class analyses ,and AI model base on medical imaging related to cancer.
 
 # Interests to show in About widget
 interests:
+  - AI model based on medical imaging
   - Biomedical Experiment
   - Bioinformatics Analysis
   - Randomized Controlled Trials
@@ -36,7 +39,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MMed in Cardiovascular Medicine
+    - course: MMed in Internal Medicine
+      institution: School of Translational Medicine, Monash University
+	  scholarship: Monash Graduate Scholarship (MGS); Monash International Tuition Scholarship (MITS)
+      year: 10/2024 – present
+    - course: MMed in Internal Medicine
       institution: Second School of Clinical Medicine, Wuhan University
       year: 09/2020 – 06/2023
     - course: MBBS in Clinical Medicine
@@ -87,5 +94,5 @@ highlight_name: true
 ---
 
 Welcome to my personal website. I am a student from mainland China. 
-I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine with a specialization in Cardiovascular Medicine at Wuhan University. 
+I graduated with a Bachelor's degree in Clinical Medicine from Wuhan University and completed my Master's degree in Internal Medicine at Wuhan University. I am currently pursuing a Ph.D. in Medicine at Monash University
 {style="text-align: justify;"}
