@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MMed in Internal Medicine
+    - course: Ph.D. in Medicine
       institution: School of Translational Medicine, Monash University
       scholarship: Monash Graduate Scholarship (MGS); Monash International Tuition Scholarship (MITS)
       year: 10/2024 – present
