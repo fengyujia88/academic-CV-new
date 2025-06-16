@@ -19,10 +19,11 @@ role: Ph.D. Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Wuhan University
-    url: https://www.whu.edu.cn/
+    ur2: https://www.whu.edu.cn/
 organizations:
   - name: Monash University
     url: https://www.monash.edu/
+
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include bioinformatics analysis, clinical cohort studies, clinical randomized controlled trials （RCTs), meta-analyses, latent class analyses ,and AI model base on medical imaging related to cancer.
 
